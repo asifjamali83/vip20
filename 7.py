@@ -20,28 +20,28 @@ from googletrans import Translator
 #==================================================================================================
 #AKUN SELFBOT+ASIST
 #===================================================================================================
-cl = LINE("")
+cl = LINE("EDDP5xxpjzhkTanKHRj5.1YIU10u63TCy19NutxT7rq.2ls+vnVdXkAlH9qfOR0joA4lWXcThuFB9GYy/j3/Jiw")
 cl.log("Auth Token : " + str(cl.authToken)) #SELFBOT
 
-ki = LINE("")
+ki = LINE("EDhjeRcM120AwpWqqul4.+0VwFLVgQ2j2cX+3JyNF5a.9VKM7a7Q2e9RO4qmcalJjQtCYRNNnZiwG61izrNOn5w")
 ki.log("Auth Token : " + str(ki.authToken)) #ASIST1
 
-kk = LINE("")
+kk = LINE("EDuhWu7c1NCfdlwFOKB6.xBAEeq5CEKAfHgmSzhk7zG.cbPwmFJbNojFPbMsJ2wPAJb5EbHzeSYhmPgIP+o0VOo")
 kk.log("Auth Token : " + str(kk.authToken)) #ASIST2
 
-kc = LINE("")
+kc = LINE("EDBtbzvA6Xb3DgpGS4Na.F/033Vty47ZVwBhORXhAoG.zi2K2fsFgkBLTEb6VSyvC8Gm6jOAoG4baVXZrsfJ2f0")
 kc.log("Auth Token : " + str(kc.authToken)) #ASIST3
 
-km = LINE("")
+km = LINE("EDo4wKQpCms7br7gwJu2.iFiwAtxjMF5fdoxQwQqMuG.8p8Zg27Oe2Rr2cGlPaGqBKkIH/El5B33vVCcwx5j15w")
 km.log("Auth Token : " + str(km.authToken)) #ASIST4
 
-kb = LINE("")
+kb = LINE("EDRhO0VsXAwNVkpVx8j5.jZLwNsJF0dLY/sVeui1BLq.EIWDWE8x3e3US3l4N2GxmG1djHtkplgcXBKKipLWd60")
 kb.log("Auth Token : " + str(kb.authToken)) #ASIST5
 
-sw = LINE("")
+sw = LINE("ED0dEa3ReFvB3HzhwlS0.4joXktOiD5sMDqP3TEW5Ka.moAssNi6qB4ynEzMcVsEBykXez4MXcVeUWq2g6lf63A")
 sw.log("Auth Token : " + str(sw.authToken)) #ASIST6
 
-dz = LINE("")
+dz = LINE("EDk8mK1SNWfFvMmDOEya.z1BLPUXch76fSXC9ldkHAG./t3q7uipD54S+IjYPZomoSNXOGKvAsJtRBxZwaywIJQ")
 dz.log("Auth Token : " + str(dz.authToken)) #ASIST7
 #==============================================================================
 #==========================[[TOKEN CHROME]]=====================================
@@ -50,16 +50,10 @@ dz.log("Auth Token : " + str(dz.authToken)) #ASIST7
 #==============================================================================================================
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-owner = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-admin = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-staff = ["ufdc20b3a00b5e8f31e4f91017eb361b0"]
-Drop_Xv = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_DROPING_BOTS
-Xv_WIN = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_WINDOWS_XP
-Xv_LAN = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_SERVER_LAN
-Xv_Servic = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_PROV_SERVICE
-Xv_DxD = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_SYSTEM_BOTS
-Line_Import = [Drop_Xv,Xv_WIN,Xv_LAN,Xv_Servic,Xv_DxD] #ALL_IMPORTING
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+owner = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+admin = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+staff = ["uc66e45201d1612eb4ce7b3a86bac4685"]
 #==============================================================================
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
@@ -4135,7 +4129,7 @@ def bot(op):
                             except:
                                 pass
                                 
-                        elif cmd == "masuk":
+                        elif cmd == "in":
                          if msg._from in admin:
                            if msg.toType == 2:
                                group = cl.getGroup(to)
@@ -4340,7 +4334,7 @@ def bot(op):
                                 cl.sendMessage(msg.to, "Makasih sudah invit\nketemu lain waktu... "+str(G.name))
                                 cl.leaveGroup(msg.to)
                                 
-                        elif cmd == "pulang":
+                        elif cmd == "out":
                            if wait["selfbot"] == True:
                             if msg._from in admin:
                                ki.leaveGroup(msg.to)
@@ -6179,7 +6173,7 @@ def bot(op):
                             if msg._from in admin:
                                cl.sendMessage(msg.to, "「Sider Msg」\nSider Msg mu :\n\n「 " + str(wait["mention"]) + " 」")
 #=================================[ STAMINA BOT ]================================================                               
-                        elif cmd == "batre":
+                        elif cmd == "ck":
                             if msg._from in admin or msg._from in owner:
                                try:cl.inviteIntoGroup(to, [mid]);has = "OK"
                                except:has = "NOT"
