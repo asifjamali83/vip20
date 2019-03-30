@@ -22,64 +22,64 @@ from googletrans import Translator
 cl = LINE("EDDP5xxpjzhkTanKHRj5.1YIU10u63TCy19NutxT7rq.2ls+vnVdXkAlH9qfOR0joA4lWXcThuFB9GYy/j3/Jiw")
 cl.log("Auth Token : " + str(cl.authToken)) #SELFBOT
 
-k1 = LINE("")
+k1 = LINE("EDhjeRcM120AwpWqqul4.+0VwFLVgQ2j2cX+3JyNF5a.9VKM7a7Q2e9RO4qmcalJjQtCYRNNnZiwG61izrNOn5w")
 k1.log("Auth Token : " + str(k1.authToken)) #ASIST1
 
-k2 = LINE("")
+k2 = LINE("EDuhWu7c1NCfdlwFOKB6.xBAEeq5CEKAfHgmSzhk7zG.cbPwmFJbNojFPbMsJ2wPAJb5EbHzeSYhmPgIP+o0VOo")
 k2.log("Auth Token : " + str(k2.authToken)) #ASIST2
 
-k3 = LINE("")
+k3 = LINE("EDBtbzvA6Xb3DgpGS4Na.F/033Vty47ZVwBhORXhAoG.zi2K2fsFgkBLTEb6VSyvC8Gm6jOAoG4baVXZrsfJ2f0")
 k3.log("Auth Token : " + str(k3.authToken)) #ASIST3
 
-k4 = LINE("")
+k4 = LINE("EDo4wKQpCms7br7gwJu2.iFiwAtxjMF5fdoxQwQqMuG.8p8Zg27Oe2Rr2cGlPaGqBKkIH/El5B33vVCcwx5j15w")
 k4.log("Auth Token : " + str(k4.authToken)) #ASIST4
 
-k5 = LINE("")
+k5 = LINE("EDRhO0VsXAwNVkpVx8j5.jZLwNsJF0dLY/sVeui1BLq.EIWDWE8x3e3US3l4N2GxmG1djHtkplgcXBKKipLWd60")
 k5.log("Auth Token : " + str(k5.authToken)) #ASIST5
 
-k6 = LINE("")
+k6 = LINE("ED0dEa3ReFvB3HzhwlS0.4joXktOiD5sMDqP3TEW5Ka.moAssNi6qB4ynEzMcVsEBykXez4MXcVeUWq2g6lf63A")
 k6.log("Auth Token : " + str(k6.authToken)) #ASIST6
 
-k7 = LINE("")
+k7 = LINE("EDk8mK1SNWfFvMmDOEya.z1BLPUXch76fSXC9ldkHAG./t3q7uipD54S+IjYPZomoSNXOGKvAsJtRBxZwaywIJQ")
 k7.log("Auth Token : " + str(k7.authToken)) #ASIST7
 
-k8 = LINE("")
+k8 = LINE("EDSRsgGbQTO1zJo44dP6.P0DywLibVMEvA1w8+MyKzG.ZEgxXGtgWM0vKLE6NFije2mFFjyiNpJ8kMC9RwscJYY")
 k8.log("Auth Token : " + str(k8.authToken)) #ASIST8
 
-k9 = LINE("")
+k9 = LINE("EDVw2pACOl72hHeMEvfb.jsVVBl6s1wGGAmAWEJzz2W.dInFa4SlSbb1LReWAbqgLeVqkf9v4I57Cng5tz/iHvQ")
 k9.log("Auth Token : " + str(k9.authToken)) #ASIST9
 
-k10 = LINE("")
+k10 = LINE("EDmZiXCiVV1cSegX6FJ2.LXYsXPKv919TqN1yc47NOG.CtHUlsBBgdQ6Cfr3f9PIk2gvEFy1yn+2jiz1f1Lr5L0")
 k10.log("Auth Token : " + str(k10.authToken)) #ASIST10
 
-k11 = LINE("")
+k11 = LINE("EDMI0aMhlyfwUi8kKJF8.r4o5B2rVFUt3ErkQ8VWwYa.hO317CwxNho7at8Z7RwaY4myG2FZ88Ps5fqbOV4e/D8")
 k11.log("Auth Token : " + str(k11.authToken)) #ASIST11
 
-k12 = LINE("")
+k12 = LINE("EDtMCBqgwzGAIx7vSzz7.MNDJ+FLNS0xznCFGA2mQ1W.0kJp7qxkBBtiAkIiJz0AXTMOcss24VJPYL6VRLEdnbg")
 k12.log("Auth Token : " + str(k12.authToken)) #ASIST12
 
-k13 = LINE("")
+k13 = LINE("ED6erwwDBiMtPV1dQKWa.jTu0+5v1OGKIsdsVwe3CwG.EhWI5dqcP/01RxPSpGKN9jcDjWNHrAmD9alT5Iv9X4M")
 k13.log("Auth Token : " + str(k13.authToken)) #ASIST13
 
-k14 = LINE("")
+k14 = LINE("EDC81pm8ZVnYNI4ieWJ1.ybfPO53UOaxlbu9T86g/aq.szkTPMaXNy2eyh9XmfAKnlf3T6mVdLUbL6ddEb9KngE")
 k14.log("Auth Token : " + str(k14.authToken)) #ASIST14
 
-k15 = LINE("")
+k15 = LINE("EDJDsB4DPK1jllD7eTte.yioy5rpJhrcNspExBaBkBG.CQSQV/N0iaYFuxaUZIQyBTYjy0yGjItoaIFWNvr8O/U")
 k15.log("Auth Token : " + str(k15.authToken)) #ASIST15
 
-k16 = LINE("")
+k16 = LINE("EDXCyZxNZL5dSaKmgoRe.dlzxCJT2xGku6Q7GI/qxRG.oO4ADCDnCryTOmfS+EWUDk0GdUrHmQqjkGArxVwrt1k")
 k16.log("Auth Token : " + str(k16.authToken)) #ASIST16
 
-k17 = LINE("")
+k17 = LINE("EDBxfhRdoAGvLVlnlpLb.2HvXKhgK4WOo07h84VAvQW.IdeYc29hkLS+sKxTGpsmdVKyG46xrCQG0gL4wFZ3CPw")
 k17.log("Auth Token : " + str(k17.authToken)) #ASIST17
 
-k18 = LINE("")
+k18 = LINE("EDm5ztAlnxmzgywWupr0.nRubQ/dF/mz2DYtTmScHqa.ZGDleH5r/T4aN4NouGm1445Ef4TRjg0lbqRGZthXh3Q")
 k18.log("Auth Token : " + str(k18.authToken)) #ASIST18
 
-k19 = LINE("")
+k19 = LINE("EDqPXFHgsKgBeemHHki3.D9d0eQxt2pDBR4APfWP7GW.7LkjNm5hzvOshXLwbBoeGtzyL8L3jGgmEg5WA0K+pQs")
 k19.log("Auth Token : " + str(k19.authToken)) #ASIST19
 
-k20 = LINE("")
+k20 = LINE("EDcz8DIvb0YKgMq9e0z0.eODQiNIPSu0elgmTfE4eGa.5ORVNAVOi3/ZR6N3pZiZobdcetozV5Miyr7R1WFKAiA")
 k20.log("Auth Token : " + str(k20.authToken)) #ASIST20
 
 #==========================[[TOKEN CHROME]]=====================================
@@ -3359,36 +3359,36 @@ def bot(op):
                         return
                     else:
                         cmd = command(text)
-                        if cmd == "menu":
+                        if cmd == "h":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                helpMessage = help()
                                cl.sendMessage(msg.to, str(helpMessage))
                                
-                        elif cmd == "helpkick":
+                        elif cmd == "hk":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                helpMessage2 = helpbot()
                                cl.sendMessage(msg.to, str(helpMessage2))
                                
-                        elif cmd == "media":
+                        elif cmd == "h1":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                helpMessage3 = helpbot1()
                                cl.sendMessage(msg.to, str(helpMessage3)) 
                               
-                        elif cmd == "help":
+                        elif cmd == "h2":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                helpMessage4 = helpbot2()
                                cl.sendMessage(msg.to, str(helpMessage4)) 
                                                                                        
-                        if cmd == "on":
+                        if cmd == "on20":
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                 wait["selfbot"] = True
                                 cl.sendMessage(msg.to, "Bot telah di aktifkan")
                                 
-                        elif cmd == "off":
+                        elif cmd == "off20":
                             if msg._from in owner or msg._from in admin:
                                 wait["selfbot"] = False
                                 cl.sendMessage(msg.to, "Bot off smentara waktu")
@@ -3398,12 +3398,12 @@ def bot(op):
                                  me = cl.getContact(mid)
                                  cl.sendVideoWithURL(msg.to,"http://dl.profile.line-cdn.net/" + me.pictureStatus + "/vp")                                            
                                                 
-                        elif cmd == "settings":
+                        elif cmd == "set":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
-                                md = "   ⏣⎊ S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ ⎊⏣\n\n"
+                                md = "   ⏣⎊ by.Mai ⎊⏣\n\n"
                                 if wait["sticker"] == True: md+="【✔】Sticker\n"
                                 else: md+="【✘】Sticker\n"
                                 if wait["contact"] == True: md+="【✔】Contact\n"
@@ -3452,7 +3452,7 @@ def bot(op):
                                sendMention(msg.to, sender, "🔴My Creator\n\n")
                                cl.sendMessage(msg.to, None, contentMetadata={'mid': mid}, contentType=13)
 
-                        elif cmd == "me" or text.lower() == 'me':
+                        elif cmd == "มี" or text.lower() == 'me':
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:                                           
                                 msg.contentType = 13
@@ -3470,14 +3470,8 @@ def bot(op):
                               cl.sendMessage(msg.to, None,contentMetadata={'mid': sender}, contentType=13)
                               
                                                                        
-                        elif text.lower() == "midku":
+                        elif text.lower() == "bot20":
                                cl.sendMessage(msg.to, msg._from)
-                        elif text.lower() == 'ass':
-                               cl.sendMessage(msg.to, "Assalamu'alaikum Wr. Wb")
-                               cl.sendMessage(msg.to, "السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ")
-                        elif text.lower() == 'wss':
-                               cl.sendMessage(msg.to, "Wa'alaikumsallam.Wr,Wb")
-                               cl.sendMessage(msg.to, "ُوَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ  ")
                         elif text.lower() == 'bot':
                                cl.sendMessage(msg.to, "On bos siap hajar😈")
                                
@@ -3491,7 +3485,7 @@ def bot(op):
                                cl.sendMessage(msg.to, "Nama : "+str(mi.displayName)+"\nMID : " +key1)
                                cl.sendMessage(msg.to, None, contentMetadata={'mid': key1}, contentType=13)
 
-                        elif ("Kepo " in msg.text):
+                        elif ("มิด " in msg.text):
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                key = eval(msg.contentMetadata["MENTION"])
@@ -3504,7 +3498,7 @@ def bot(op):
                                else:
                                    cl.sendImageWithURL(msg.to, 'http://dl.profile.line.naver.jp'+str(mi.picturePath))
                                    
-                        elif cmd == "add":
+                        elif cmd == "แอดบอท":
                           if msg._from in admin:
                             try:
                                 cl.findAndAddContactsByMid(Amid)
@@ -3513,99 +3507,52 @@ def bot(op):
                                 cl.findAndAddContactsByMid(Dmid)
                                 cl.findAndAddContactsByMid(Emid)
                                 cl.findAndAddContactsByMid(Zmid)
-                                cl.findAndAddContactsByMid(Dhennza)
-                                cl.findAndAddContactsByMid(Drop_Xv)
-                                cl.findAndAddContactsByMid(Xv_WIN)
-                                cl.findAndAddContactsByMid(Xv_LAN)
-                                cl.findAndAddContactsByMid(Xv_Servic)
-                                cl.findAndAddContactsByMid(Xv_DxD)
                                 ki.findAndAddContactsByMid(mid)                                
                                 ki.findAndAddContactsByMid(Bmid)
                                 ki.findAndAddContactsByMid(Cmid)
                                 ki.findAndAddContactsByMid(Dmid)
                                 ki.findAndAddContactsByMid(Emid)
                                 ki.findAndAddContactsByMid(Zmid)
-                                ki.findAndAddContactsByMid(Dhennza)
-                                ki.findAndAddContactsByMid(Drop_Xv)
-                                ki.findAndAddContactsByMid(Xv_WIN)
-                                ki.findAndAddContactsByMid(Xv_LAN)
-                                ki.findAndAddContactsByMid(Xv_Servic)
-                                ki.findAndAddContactsByMid(Xv_DxD)
                                 kk.findAndAddContactsByMid(mid)
                                 kk.findAndAddContactsByMid(Amid)                                
                                 kk.findAndAddContactsByMid(Cmid)
                                 kk.findAndAddContactsByMid(Dmid)
                                 kk.findAndAddContactsByMid(Emid)
                                 kk.findAndAddContactsByMid(Zmid)
-                                kk.findAndAddContactsByMid(Dhennza)
-                                kk.findAndAddContactsByMid(Drop_Xv)
-                                kk.findAndAddContactsByMid(Xv_WIN)
-                                kk.findAndAddContactsByMid(Xv_LAN)
-                                kk.findAndAddContactsByMid(Xv_Servic)
-                                kk.findAndAddContactsByMid(Xv_DxD)
                                 kc.findAndAddContactsByMid(mid)
                                 kc.findAndAddContactsByMid(Amid)                                
                                 kc.findAndAddContactsByMid(Cmid)
                                 kc.findAndAddContactsByMid(Dmid)
                                 kc.findAndAddContactsByMid(Emid)
                                 kc.findAndAddContactsByMid(Zmid)
-                                kc.findAndAddContactsByMid(Dhennza)
-                                kc.findAndAddContactsByMid(Drop_Xv)
-                                kc.findAndAddContactsByMid(Xv_WIN)
-                                kc.findAndAddContactsByMid(Xv_LAN)
-                                kc.findAndAddContactsByMid(Xv_Servic)
-                                kc.findAndAddContactsByMid(Xv_DxD)
                                 km.findAndAddContactsByMid(mid)
                                 km.findAndAddContactsByMid(Amid)
                                 km.findAndAddContactsByMid(Bmid)
                                 km.findAndAddContactsByMid(Dmid)
                                 km.findAndAddContactsByMid(Emid)
                                 km.findAndAddContactsByMid(Zmid)
-                                km.findAndAddContactsByMid(Dhennza)
-                                km.findAndAddContactsByMid(Drop_Xv)
-                                km.findAndAddContactsByMid(Xv_WIN)
-                                km.findAndAddContactsByMid(Xv_LAN)
-                                km.findAndAddContactsByMid(Xv_Servic)
-                                km.findAndAddContactsByMid(Xv_DxD)
                                 kb.findAndAddContactsByMid(mid)
                                 kb.findAndAddContactsByMid(Amid)
                                 kb.findAndAddContactsByMid(Bmid)
                                 kb.findAndAddContactsByMid(Cmid)
                                 kb.findAndAddContactsByMid(Dmid)                               
                                 kb.findAndAddContactsByMid(Zmid)
-                                kb.findAndAddContactsByMid(Dhennza)
-                                kb.findAndAddContactsByMid(Drop_Xv)
-                                kb.findAndAddContactsByMid(Xv_WIN)
-                                kb.findAndAddContactsByMid(Xv_LAN)
-                                kb.findAndAddContactsByMid(Xv_Servic)
-                                kb.findAndAddContactsByMid(Xv_DxD)
                                 sw.findAndAddContactsByMid(mid)
                                 sw.findAndAddContactsByMid(Amid)
                                 sw.findAndAddContactsByMid(Bmid)
                                 sw.findAndAddContactsByMid(Cmid)
                                 sw.findAndAddContactsByMid(Dmid)
-                                sw.findAndAddContactsByMid(Emid)                                
-                                sw.findAndAddContactsByMid(Dhennza)
-                                sw.findAndAddContactsByMid(Drop_Xv)
-                                sw.findAndAddContactsByMid(Xv_WIN)
-                                sw.findAndAddContactsByMid(Xv_LAN)
-                                sw.findAndAddContactsByMid(Xv_Servic)
-                                sw.findAndAddContactsByMid(Xv_DxD)
+                                sw.findAndAddContactsByMid(Emid)
                                 dz.findAndAddContactsByMid(mid)
                                 dz.findAndAddContactsByMid(Amid)
                                 dz.findAndAddContactsByMid(Bmid)
                                 dz.findAndAddContactsByMid(Cmid)
                                 dz.findAndAddContactsByMid(Dmid)
                                 dz.findAndAddContactsByMid(Emid)
-                                dz.findAndAddContactsByMid(Zmid)                                
-                                dz.findAndAddContactsByMid(Drop_Xv)
-                                dz.findAndAddContactsByMid(Xv_WIN)
-                                dz.findAndAddContactsByMid(Xv_LAN)
-                                dz.findAndAddContactsByMid(Xv_Servic)
-                                dz.findAndAddContactsByMid(Xv_DxD)                                
+                                dz.findAndAddContactsByMid(Zmid)                                       
                                 cl.sendMessage(to,"Sucsess!!!")
                             except:
-                                cl.sendMessage(to,"Lengkap bos..")
+                                cl.sendMessage(to,"บอทแอดกันหมดแล้วค่ะ..")
 
                         elif cmd  == "mybot":
                           if msg._from in admin:
@@ -4256,7 +4203,7 @@ def bot(op):
                                 dz.updateProfile(profile)
                                 dz.sendMessage(msg.to,"Nama diganti jadi " + string + "")
 #===========BOT UPDATE============#                                                          
-                        elif cmd == "mention" or text.lower() == 'tes':
+                        elif cmd == "แทค" or text.lower() == 'tes':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                group = cl.getGroup(msg.to)
@@ -4547,7 +4494,7 @@ def bot(op):
                             except:
                                 pass
                                 
-                        elif cmd == "masuk":
+                        elif cmd == "in20":
                          if msg._from in admin:
                            if msg.toType == 2:
                                group = cl.getGroup(to)
@@ -4555,19 +4502,45 @@ def bot(op):
                                cl.updateGroup(group)
                                invsend = 0
                                ticket = cl.reissueGroupTicket(to)
-                               ki.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k1.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               kk.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k2.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               kc.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k3.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               km.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k4.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               kb.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k5.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               sw.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k6.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
-                               dz.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               k7.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k8.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k9.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k10.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k11.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k12.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k13.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k14.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k15.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k16.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k17.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k18.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k19.acceptGroupInvitationByTicket(to,format(str(ticket)))
+                               time.sleep(0.01)
+                               k20.acceptGroupInvitationByTicket(to,format(str(ticket)))
                                time.sleep(0.01)
                                G = cl.getGroup(msg.to)
                                G.preventedJoinByTicket = True
@@ -4576,13 +4549,13 @@ def bot(op):
                         elif cmd == "name":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               ki.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               kk.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               kc.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               km.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               kb.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               sw.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
-                               dz.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k1.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k2.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k3.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k4.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k5.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k6.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
+                               k7.sendMessage(msg.to, "۞❂✪₷ιlΣƬ ₭ιll₠₹ ⋮➲➤➤")
                                
                         elif cmd == "respon":
                           if wait["selfbot"] == True:
@@ -4752,16 +4725,29 @@ def bot(op):
                                 cl.sendMessage(msg.to, "Makasih sudah invit\nketemu lain waktu... "+str(G.name))
                                 cl.leaveGroup(msg.to)
                                 
-                        elif cmd == "pulang":
+                        elif cmd == "out20":
                            if wait["selfbot"] == True:
                             if msg._from in admin:
-                               ki.leaveGroup(msg.to)
-                               kk.leaveGroup(msg.to)
-                               kc.leaveGroup(msg.to)
-                               km.leaveGroup(msg.to)
-                               kb.leaveGroup(msg.to)
-                               sw.leaveGroup(msg.to)
-                               dz.leaveGroup(msg.to)
+                               k1.leaveGroup(msg.to)
+                               k2.leaveGroup(msg.to)
+                               k3.leaveGroup(msg.to)
+                               k4.leaveGroup(msg.to)
+                               k5.leaveGroup(msg.to)
+                               k6.leaveGroup(msg.to)
+                               k7.leaveGroup(msg.to)
+                               k8.leaveGroup(msg.to)
+                               k9.leaveGroup(msg.to)
+                               k10.leaveGroup(msg.to)
+                               k11.leaveGroup(msg.to)
+                               k12.leaveGroup(msg.to)
+                               k13.leaveGroup(msg.to)
+                               k14.leaveGroup(msg.to)
+                               k15.leaveGroup(msg.to)
+                               k16.leaveGroup(msg.to)
+                               k17.leaveGroup(msg.to)
+                               k18.leaveGroup(msg.to)
+                               k19.leaveGroup(msg.to)
+                               k20.leaveGroup(msg.to)
                                
 
                         elif cmd.startswith("leave "):
