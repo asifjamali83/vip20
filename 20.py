@@ -19,7 +19,7 @@ from googletrans import Translator
 #==================================================================================================
 #AKUN SELFBOT+ASIST
 #===================================================================================================
-cl = LINE("")
+cl = LINE("EDDP5xxpjzhkTanKHRj5.1YIU10u63TCy19NutxT7rq.2ls+vnVdXkAlH9qfOR0joA4lWXcThuFB9GYy/j3/Jiw")
 cl.log("Auth Token : " + str(cl.authToken)) #SELFBOT
 
 k1 = LINE("")
