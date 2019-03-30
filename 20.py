@@ -1813,7 +1813,7 @@ def bot(op):
                                                 k7.kickoutFromGroup(op.param1,[op.param2])
                                                 cl.acceptGroupInvitation(op.param1)
                                                 k8.cancelGroupInvitation(op.param1,[op.param2])
-                                               wait["blacklist"][op.param2] = True
+                                                wait["blacklist"][op.param2] = True
                                             except:
                                                 try:
                                                     k8.inviteIntoGroup(op.param1,[mid,mid1,mid2,mid3,mid4,mid5,mid6,mid7,mid8,mid9,mid10,mid11,mid12,mid13,mid14,mid15,mid16,mid17,mid18,mid19,mid20])
