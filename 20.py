@@ -1568,37 +1568,7 @@ def bot(op):
                                                             try:
                                     	                        k10.cancleGroupInvitation(op.param1,[op.param2])
                                                             except:
-                                                                try:
-                                                                    k11.cancelGroupInvitation(op.param1,[op.param2])
-                                                                except:
-                                                                    try:
-                                                                        k12.cancelGroupInvitation(op.param1,[op.param2])
-                                                                    except:
-                                                                        try:
-                                                                            k13.cancelGroupInvitation(op.param1,[op.param2])
-                                                                        except:
-                                                                            try:
-                                    	                                        k14.cancleGroupInvitation(op.param1,[op.param2])
-                                                                            except:
-                                                                                try:
-                                                                                    k15.cancleGroupInvitation(op.param1,[op.param2])
-                                                                                except:
-                                                                                    try:
-                                                                                        k16.cancleGroupInvitation(op.param1,[op.param2])
-                                                                                    except:
-                                                                                        try:
-                                                                                            k17.cancleGroupInvitation(op.param1,[op.param2])
-                                                                                        except:
-                                                                                            try:
-                                                                                                k18.cancelGroupInvitation(op.param1,[op.param2])
-                                                                                            except:
-                                                                                                try:
-                                                                                                    k19.cancelGroupInvitation(op.param1,[op.param2])
-                                                                                                except:
-                                                                                                    try:
-                                    	                                                                k20.cancleGroupInvitation(op.param1,[op.param2])
-                                                                                                    except:
-                                                                                                        pass
+                                                                pass
                                                     
                 return                                       
 #====================================================================
@@ -1644,37 +1614,7 @@ def bot(op):
                                                         try:
                                                             k10.kickoutFromGroup(op.param1,[op.param2])
                                                         except:
-                                                            try:
-                                                                k11.kickoutFromGroup(op.param1,[op.param2])
-                                                            except:
-                                                                try:
-                                                                    k12.kickoutFromGroup(op.param1,[op.param2])
-                                                                except:
-                                                                    try:
-                                                                        k13.kickoutFromGroup(op.param1,[op.param2])
-                                                                    except:
-                                                                        try:
-                                                                            k14.kickoutFromGroup(op.param1,[op.param2])
-                                                                        except:
-                                                                            try:
-                                    	                                        k15.kickoutFromGroup(op.param1,[op.param2])
-                                                                            except:
-                                                                                try:
-                                                                                    k16.kickoutFromGroup(op.param1,[op.param2])
-                                                                                except:
-                                                                                    try:
-                                                                                        k17.kickoutFromGroup(op.param1,[op.param2])
-                                                                                    except:
-                                                                                        try:
-                                                                                            k18.kickoutFromGroup(op.param1,[op.param2])
-                                                                                        except:
-                                                                                            try:
-                                                                                                k19.kickoutFromGroup(op.param1,[op.param2])
-                                                                                            except:
-                                                                                                try:
-                                                                                                    k20.kickoutFromGroup(op.param1,[op.param2])
-                                                                                                except:
-                                                                                                    pass
+                                                            pass
                                                     
                 return                                
 #====================================================================                            
@@ -1720,37 +1660,7 @@ def bot(op):
                                                         try:
                                                             k10.kickoutFromGroup(op.param1,[op.param2])
                                                         except:
-                                                            try:
-                                                                k11.kickoutFromGroup(op.param1,[op.param2])
-                                                            except:
-                                                                try:
-                                                                    k12.kickoutFromGroup(op.param1,[op.param2])
-                                                                except:
-                                                                    try:
-                                                                        k13.kickoutFromGroup(op.param1,[op.param2])
-                                                                    except:
-                                                                        try:
-                                                                            k14.kickoutFromGroup(op.param1,[op.param2])
-                                                                        except:
-                                                                            try:
-                                    	                                        k15.kickoutFromGroup(op.param1,[op.param2])
-                                                                            except:
-                                                                                try:
-                                                                                    k16.kickoutFromGroup(op.param1,[op.param2])
-                                                                                except:
-                                                                                    try:
-                                                                                        k17.kickoutFromGroup(op.param1,[op.param2])
-                                                                                    except:
-                                                                                        try:
-                                                                                            k18.kickoutFromGroup(op.param1,[op.param2])
-                                                                                        except:
-                                                                                            try:
-                                                                                                k19.kickoutFromGroup(op.param1,[op.param2])
-                                                                                            except:
-                                                                                                try:
-                                                                                                    k20.kickoutFromGroup(op.param1,[op.param2])
-                                                                                                except:
-                                                                                                    pass
+                                                            pass
                                                     
                 return                      
 #====================================================================                                            
