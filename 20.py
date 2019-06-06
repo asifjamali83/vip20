@@ -19,67 +19,67 @@ from googletrans import Translator
 #==================================================================================================
 #AKUN SELFBOT+ASIST
 #===================================================================================================
-cl = LINE("111")
+cl = LINE("EFbkCzr0xZDcgSS30uE0.nvD/uRjfRoBETK4ZOWhZSa.X5t2mJig2vO5dfTK3MfeUNVBGs1g3meGaXV+eVT2Idc=")
 cl.log("Auth Token : " + str(cl.authToken)) #SELFBOT
 
-k1 = LINE("222")
+k1 = LINE("EF8L18MldUuIQ1u9YxD4./Coef04cSd1Ymaih+V2ADa.Kb03vce6vdJpxmSToJcCpxoPr+KBW/b0xQgTG3K08EU=")
 k1.log("Auth Token : " + str(k1.authToken)) #ASIST1
 
-k2 = LINE("333")
+k2 = LINE("EFZ38BeZEnseNgkX3Ogd.CNZNgt3iUc3fYRhn7Cibxq.wensAI53MVfPBdf+B7ftxQNaN3brP/OS8LomuFxEreE=")
 k2.log("Auth Token : " + str(k2.authToken)) #ASIST2
 
-k3 = LINE("444")
+k3 = LINE("EFq3hJ4ppSDdSuAdKB64.v1HrXTya8vs3Kmp/GY36La.5Oyxt2YZlfk5IqYe/pnJDzbKWdYT5YPakWQrXzF5FCA=")
 k3.log("Auth Token : " + str(k3.authToken)) #ASIST3
 
-k4 = LINE("555")
+k4 = LINE("EFktvFOJUvk2sS4xbbsc.CCslx0hiYMYz0Wkvw5ctJa.wNMFobiuLfGp6xAGWywGRQEjHL/Tj+RZdYmEKzLwgHw=")
 k4.log("Auth Token : " + str(k4.authToken)) #ASIST4
 
-k5 = LINE("666")
+k5 = LINE("EFdfsnmiVKjieXLUtYj7.4ciXpOp+ngV1ye23dcM5vW.+zxsEO1+3SeADETtU5cdZkps1mL5+B2ZE2DFJUVD+Z0=")
 k5.log("Auth Token : " + str(k5.authToken)) #ASIST5
 
-k6 = LINE("777")
+k6 = LINE("EFveMdirVlNRDONzqhT2.XhCwJBakhq3WIw4uZqu08G.pTpMvMjJrIYuvikFTRNKgF5ANsGGxvbYpTg7tP5WlfM=")
 k6.log("Auth Token : " + str(k6.authToken)) #ASIST6
 
-k7 = LINE("888")
+k7 = LINE("EFZuaqxMV39onAiEZUu1.f04Z5tIwN8oo0wvkaqNsqq.2FTksQz1HMV5tl3SLKLKV4MDvF6Rkhgh65TcMgbS8RQ=")
 k7.log("Auth Token : " + str(k7.authToken)) #ASIST7
 
-k8 = LINE("999")
+k8 = LINE("EFrgI5gRSdO519DuPd6d.JZJ/1Jhb9oyNKqIA+uiyFq.+o5Cv5mTCqOSkAmzSnByGfkibb4rJhuB1NM2i58IrtI=")
 k8.log("Auth Token : " + str(k8.authToken)) #ASIST8
 
-k9 = LINE("1010")
+k9 = LINE("EFFoLr0dencqm1lj7sv7.t/IdFcgcW7pVEtQdsL6WzW.JAaZwpQOUh/z/LCqXq+1XlQW1qIdq4MixDMiOkKQFoc=")
 k9.log("Auth Token : " + str(k9.authToken)) #ASIST9
 
-k10 = LINE("1111")
+k10 = LINE("EFhTUG39wMZgLjnLVdub.bAXEGo6vXQI0VRhomlb3MW.Iyi7tnKokYJ87slTDulguZuJAw0p+A6dYNyU7YlP5mM=")
 k10.log("Auth Token : " + str(k10.authToken)) #ASIST10
 
-k11 = LINE("2222")
+k11 = LINE("EFsWBWrSVR65X3IL7Nja.uA70OmZ6xGXhLjifkBHlgG.lDyhxTF1BjMWpkLxqcuvY+jxL7DUxY/C8BpRxevIdS0=")
 k11.log("Auth Token : " + str(k11.authToken)) #ASIST11
 
-k12 = LINE("3333")
+k12 = LINE("EFRg6YexuFvYJGy09zN5.hY1gor5CBWozmN09XaJ2nq.3Xz9qAGI5zRLh/C506Vl6710a0QBJbXV5MeLVNE1XkY=")
 k12.log("Auth Token : " + str(k12.authToken)) #ASIST12
 
-k13 = LINE("4444")
+k13 = LINE("EFYbmbDgNzXZ5zdUcE97.eFLiD/q6XzekkEvsWRD+LW.5n4jnIskoSX5eBwQ2rjc9kyB5NC6sCYkRcHlwEtjFqE=")
 k13.log("Auth Token : " + str(k13.authToken)) #ASIST13
 
-k14 = LINE("5555")
+k14 = LINE("EFQkpdib0uy71lN9CVB3.oZKdd6x9QUrxeWqlIqSx8W.66Bnfvwx3xQGJFeTeF+QWgXJibLbbuu0qQk5ygI8UWw=")
 k14.log("Auth Token : " + str(k14.authToken)) #ASIST14
 
-k15 = LINE("6666")
+k15 = LINE("EFTHH70JZXcybgpB4Vsd.UTyjPKxsevBlRp3J8QqDNq.M6K9CFGLRy1CvyaBBuDVaO2sjtBc6wlh2dyY7R+YKA4=")
 k15.log("Auth Token : " + str(k15.authToken)) #ASIST15
 
-k16 = LINE("7777")
+k16 = LINE("EFxJ7WVfgUfO2z9BLeXe.yDd/ESRdVqhoxLV9ogigNG.zhIZRHQUKVxaJiV7XlaIWcO1oC5MH6cNsH1M4Ggf+kg=")
 k16.log("Auth Token : " + str(k16.authToken)) #ASIST16
 
-k17 = LINE("8888")
+k17 = LINE("EFUh6QLP7rcNOlndsKO7.8d+/mNO13JPYidbljC3nvW.Jld1bt1U9EweSdaEVtVw/1ebyE87LJ3ky+4MHtXTFm0=")
 k17.log("Auth Token : " + str(k17.authToken)) #ASIST17
 
-k18 = LINE("9999")
+k18 = LINE("EFkIiBieVHTxSR9VfcF9.NS79GkjXPX2SeYabibJEAq.24CXFL9rYnpgt31ak8TWXPmi+Hc/XLbV66eOHBfB3IA=")
 k18.log("Auth Token : " + str(k18.authToken)) #ASIST18
 
-k19 = LINE("2020")
+k19 = LINE("EFSSdNFHlkiC1Xm6WZU4.DEkgt/uG902ZLFOdfK325a.c9sl5HpSzLrbq/ET3y7isTJkOiPMqQOGtODmTZnW0SM=")
 k19.log("Auth Token : " + str(k19.authToken)) #ASIST19
 
-k20 = LINE("2121")
+k20 = LINE("EFZWw9tdKYFiFVmL68o4.PnedOXbKgH1I4n4keIY+fa.DsgvSdxxwONmWuNUBHiLju216kn1rP+jwlSxz9JeRo8=")
 k20.log("Auth Token : " + str(k20.authToken)) #ASIST20
 
 #==========================[[TOKEN CHROME]]=====================================
